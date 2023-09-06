@@ -1,4 +1,4 @@
-# ShippingCostAndTransitDaysCalculator
+# Shipping Cost And Transit Days Calculator
 import streamlit as st
 
 # Sample data dictionary
